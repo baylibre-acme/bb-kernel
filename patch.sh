@@ -431,6 +431,9 @@ drivers () {
 	#dir 'drivers/ti/spi'
 	dir 'drivers/ti/uio'
 
+	# ACME iio patch
+	dir 'drivers/ti/iio'
+
 	dir 'drivers/ti/gpio'
 }
 
